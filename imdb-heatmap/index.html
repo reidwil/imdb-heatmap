@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div id="header">
+    <img id="poster" src="" alt="TV Show Poster" />
+    <div>
+      <h2 id="titleHeader">TV Show Episode Ratings Heatmap (IMDb)</h2>
+      <input type="text" id="titleInput" placeholder="Enter TV show title (e.g. The Office)">
+      <button onclick="handleSearch()">Search</button>
+    </div>
+  </div>
+  <div id="heatmap"></div>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</body>
+</html>
