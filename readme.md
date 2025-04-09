@@ -1,5 +1,7 @@
 # 📊 IMDb Episode Ratings Heatmap
 
+**[➡ View the app on Netlify](https://imdb-heatmap.netlify.app/)**
+
 A browser-based app that visualizes IMDb episode ratings for any TV show as a heatmap — one column per season, one row per episode. Built with Plotly.js and powered by the [OMDb API](http://www.omdbapi.com/).
 
 ![](/assets/example.png)
@@ -14,13 +16,6 @@ A browser-based app that visualizes IMDb episode ratings for any TV show as a he
 - 🖱️ Hover to see episode title, rating, and season/episode
 - 📱 Mobile-friendly layout
 - 🖼️ Show poster displayed automatically
-
----
-
-## 🚀 Live Demo
-
-**[➡ View the app on Netlify](https://your-site-name.netlify.app)**  
-(Replace with your actual Netlify URL)
 
 ---
 
